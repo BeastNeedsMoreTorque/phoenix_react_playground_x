@@ -12,7 +12,7 @@ config :logger, level: :warn
 # Configure your database
 config :phoenix_react_playground, PhoenixReactPlayground.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "fourzoas",
   database: "phoenix_react_playground_test",
   hostname: "localhost",
   pool: Ecto.Adapters.SQL.Sandbox
