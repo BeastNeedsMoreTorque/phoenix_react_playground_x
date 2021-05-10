@@ -8,7 +8,7 @@
   "dependencies": {
     "dotenv": "^8.2.0",
     "js-yaml": "^3.13.1",
-    "lodash": "^4.17.12",
+    "lodash": "^4.17.21",
     "milligram": "^1.3.0",
     "mixin-deep": "^1.3.2",
     "phoenix": "file:deps/phoenix",
